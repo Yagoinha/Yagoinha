@@ -1,4 +1,4 @@
- 
+ ![Image](https://github.com/user-attachments/assets/d0ddea54-9239-4666-aee7-9cf46c717af6)
   <h1 align="center">
     Olá!✌️ Seja bem-vindo ao meu cantinho no GitHub! Eu sou
     <a href="linkedin.com/in/yago-barbosa-dini-b1405b302"> Yago Dini</a>
