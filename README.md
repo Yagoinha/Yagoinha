@@ -18,54 +18,29 @@
 </p>
 
 ---
- 
-> ### 😎 Linguagens e Tecnologias 
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+## 🎓 Sobre mim
 
-<br/>
-<br/>
+> Olá! Seja bem-vindo ao meu cantinho no GitHub!  
+> Eu sou o **Yago** 😎
 
-> ### 🧐 Estatísticas
+---
+
+## 📚 Contato e Redes
+
+[![IFSP - ADS Student](https://custom-icon-badges.demolab.com/badge/IFSP%20-%20ADS%20Student-0A1E3F.svg?logo=graduation-cap&logoColor=white)](https://ifsp.edu.br)
+[![Gmail](https://custom-icon-badges.demolab.com/badge/Gmail%20-%20yagoinha@gmail.com-0A1E3F.svg?logo=gmail&logoColor=white)](mailto:yagoinha@gmail.com)
+[![Educacional Mail](https://custom-icon-badges.demolab.com/badge/Educacional%20Mail%20-%20dini.yago@aluno.ifsp.edu.br-0A1E3F.svg?logo=mail&logoColor=white)](mailto:dini.yago@aluno.ifsp.edu.br)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn%20-%20Yago%20Barbosa%20Dini-0A1E3F.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-barbosa-dini-b1405b302/)
+
+##  😎 Linguagens e Tecnologias 
+
+[![HTML5](https://custom-icon-badges.demolab.com/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)]()
+[![CSS3](https://custom-icon-badges.demolab.com/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)]()
+[![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white)]()
+
+
+##  🧐 Estatísticas
 
 <p>
   <img 
